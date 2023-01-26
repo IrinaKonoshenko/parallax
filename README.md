@@ -5,4 +5,4 @@
  VS Code 
  Cubic-Bezier CSS Generator
  Пипетка Instant Eyedropper
- Исходники изображений на оф. сайте
+
